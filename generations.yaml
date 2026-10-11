@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_RS_4"
+
+generations:
+  - name: "B7"
+    start_year: 2006
+    end_year: 2008
+    description: "With the 4.2 L FSI V8."
+  - name: "B8"
+    start_year: 2012
+    end_year: 2015
+    description: "The Avant with the 4.2 L FSI V8."
+  - name: "B9"
+    start_year: 2018
+    end_year: null
+    description: "The Avant with the 2.9 L twin-turbo V6."
